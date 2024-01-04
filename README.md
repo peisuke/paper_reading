@@ -1,1 +1,1 @@
-# paper_reading
+# 論文読みログページ
